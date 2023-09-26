@@ -1,2 +1,2 @@
 Repo-session
-git pll
+git pull
